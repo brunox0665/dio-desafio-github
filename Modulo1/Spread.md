@@ -14,4 +14,4 @@ Esse é o _[Blog de Tecnologia](https://spread.com.br/blog-conteudos-de-tecnolog
 [Aqui](https://spread.com.br/#solucoes) tem as soluções que a Spread já promoveu nos seus 38 anos de vida.
 
 
-_Last but not least_ [aqui](https://www.youtube.com/watch?v=F0jjo1RnZxA) também tem o vídeo de um mega evento de programação que eles fizeram onde dá para sentir um pouco como o trabalho que eles fazem é empolgante (e não tem como não ficar hypado essa musiquinha).
+_Last but not least_, [aqui](https://www.youtube.com/watch?v=F0jjo1RnZxA) também tem o vídeo de um mega evento de programação que eles fizeram onde dá para sentir um pouco como o trabalho que eles fazem é empolgante (e não tem como não ficar hypado essa musiquinha).
