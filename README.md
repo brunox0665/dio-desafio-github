@@ -1,5 +1,5 @@
 # Desafio do bootcamp Spread Fullstack Developer
-Esse desafio consiste em criar seu primeiro repertório para compartilhamento de projetos no GitHub.
+Esse desafio consiste em criar meu primeiro repertório para compartilhamento de projetos no GitHub.
 
 ## Links uteis
 [Sintaxe do Git](https://comandosgit.github.io/)
